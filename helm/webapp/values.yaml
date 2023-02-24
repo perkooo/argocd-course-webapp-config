@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: perkooo/argocd-course-webapp
+  repository: perko/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 9355b45910698e8380ba4eb1f03f1ec1b5c819ca
